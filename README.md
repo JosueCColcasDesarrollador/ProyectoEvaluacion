@@ -60,7 +60,7 @@ php artisan serve
 
 ## Notas
 - Obtenga más información sobre este proyecto [aquí](https://www.youtube.com/@Andre_Raton).
-- [FAQ sobre el proyecto](https://universityproyectx.blogspot.com/2023/06/faq-sobre-el-sistema-de-ventas-de.html)
+- Puedes Escribirme por Tiktok para cualquier Consulta del Proyecto [aquí](https://www.tiktok.com/@blankuskaladoguita)
 
 ------------
 ![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
