@@ -3,11 +3,12 @@
 
 # SOFTWARE DE VENTAS
 
-## Dependencias
-- Se debe tener instalado [XAMPP](https://www.apachefriends.org/es/download.html "XAMPP") (versión **PHP** **8.1** o superior)  
-- Se debe tener instalado [Composer](https://getcomposer.org/download/ "Composer")
+## Requerimientos
+- Es necesario tener instalado [XAMPP](https://www.apachefriends.org/es/download.html "XAMPP") (versión **PHP** **8.1** o superior)  
+- Es necesario tener instalado [Composer](https://getcomposer.org/download/ "Composer")
 
-## Como instalar en Local
+## Instalar en el entorno Local
+
 1. Clone o descargue el repositorio a una carpeta en Local
 
 1. Abra el repositorio en su editor de código favorito (**Visual Studio Code**)
@@ -73,9 +74,11 @@ php artisan serve
 
 ------------
 
-## DISEÑO Y EXPLICACION DEL SOFTWARE
+# DISEÑO Y EXPLICACION DEL SOFTWARE
 
 - Obtenga más información sobre este proyecto [aquí](https://www.youtube.com/@Andre_Raton).
 - Puedes Escribirme por Tiktok para cualquier Consulta del Proyecto [aquí](https://www.tiktok.com/@blankuskaladoguita)
 
 ![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
+
+------------
