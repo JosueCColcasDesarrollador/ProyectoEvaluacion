@@ -64,7 +64,7 @@ php artisan serve
 
 ------------
 
- ### DIAGRAMA ERD
+ ## DIAGRAMA ERD
 
 ------------
 
