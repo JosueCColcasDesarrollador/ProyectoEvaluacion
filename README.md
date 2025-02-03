@@ -4,7 +4,7 @@
 # SOFTWARE DE VENTAS
 
 ## Requerimientos
-- Es necesario tener instalado [XAMPP](https://www.apachefriends.org/es/download.html "XAMPP") (versión **PHP** **8.1** o superior)  
+- Es necesario tener instalado [XAMPP](https://www.apachefriends.org/es/download.html "XAMPP") (versión **PHP** **8.0** o superior)  
 - Es necesario tener instalado [Composer](https://getcomposer.org/download/ "Composer")
 
 ## Instalar en el entorno Local
