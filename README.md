@@ -64,7 +64,7 @@ php artisan serve
 
 ------------
 
-## DIAGRAMA ERD
+# DIAGRAMA ERD
 
 ------------
 
@@ -75,7 +75,8 @@ php artisan serve
 
 ------------
 
-# DISEÑO Y EXPLICACION DEL SOFTWARE
+## DISEÑO Y EXPLICACION DEL SOFTWARE
+
 - Obtenga más información sobre este proyecto [aquí](https://www.youtube.com/@Andre_Raton).
 - Puedes Escribirme por Tiktok para cualquier Consulta del Proyecto [aquí](https://www.tiktok.com/@blankuskaladoguita)
 
