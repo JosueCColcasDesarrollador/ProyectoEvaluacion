@@ -68,9 +68,9 @@ php artisan serve
  # DIAGRAMA ERD
 
 ![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
-![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
-![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
-![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part01.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part02.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part03.jpeg)
+![Img](https://github.com/JosueCColcasDesarrollador/ProyectoEvaluacion/blob/main/diagrama_basedatos/tablas_part04.jpeg)
 
 ------------
 
